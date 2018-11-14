@@ -1,2 +1,2 @@
 # helloajax
-Ajax Practice
+Ajax and MVC practice
